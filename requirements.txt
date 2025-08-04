@@ -1,0 +1,13 @@
+langchain
+langgraph 
+langsmith 
+qdrant-client 
+openai 
+streamlit 
+pypdf 
+requests
+google-generativeai
+langchain_google_genai
+pytest
+responses
+pymupdf
